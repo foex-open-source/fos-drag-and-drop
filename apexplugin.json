@@ -1,6 +1,6 @@
 {
     "name":"FOS - Drag and Drop"
-   ,"version":"21.2.0"
+   ,"version":"22.1.0"
    ,"description":"Enable any list, card or table based region to allow drag \u0026 drop reordering.\r\n\u003Ch4\u003EFree Plug-in under MIT License\u003C\/h4\u003E\r\n\u003Cp\u003E\r\nAll FOS plug-ins are released under MIT License, which essentially means it is free for everyone to use, no matter if commercial or private use. \r\n\u003C\/p\u003E\r\n\u003Ch4\u003EOverview\u003C\/h4\u003E\r\n\u003Cp\u003EThe \u003Cstrong\u003EFOS - Drag and Drop\u003C\/strong\u003E dynamic action plug-in makes it possible to drag \u0026 drop elements inside a region. This could be a Cards region, a Badge list or basically everything that has a group of elements.\u003C\/p\u003E\r\n\u003Cp\u003EOn every change of the order of items an event is fired passing the necessary change information accessible via \"this.data\" within your dynamic action handler. Additionally you can execute PL\/SQL code to do an update of your database tables or execute some additional Javascript code.\u003C\/p\u003E\r\n\u003Cp\u003EThe plug-in is built around Shopify\u0027s Draggable library (https:\/\/github.com\/Shopify\/draggable).\u003C\/p\u003E"
    ,"keywords":[
         "list"

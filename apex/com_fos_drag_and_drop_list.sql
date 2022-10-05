@@ -242,7 +242,7 @@ wwv_flow_api.create_plugin(
 '<p>On every change of the order of items an event is fired passing the necessary change information accessible via "this.data" within your dynamic action handler. Additionally you can execute PL/SQL code to do an update of your database tables or exe'
 ||'cute some additional Javascript code.</p>',
 '<p>The plug-in is built around Shopify''s Draggable library (https://github.com/Shopify/draggable).</p>'))
-,p_version_identifier=>'21.2.0'
+,p_version_identifier=>'22.1.0'
 ,p_about_url=>'https://fos.world'
 ,p_plugin_comment=>wwv_flow_string.join(wwv_flow_t_varchar2(
 '@fos-auto-return-to-page',
